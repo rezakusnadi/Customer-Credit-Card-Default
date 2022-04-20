@@ -44,4 +44,13 @@ This dataset contains information on default payments, demographic factors, cred
 ![Capture1](https://user-images.githubusercontent.com/92531579/163833443-b3b11284-a843-4d01-85bf-4ff2cff6e316.JPG)
 
 # Conclusion
+Generate strategies and minimize risk from default, and can be provide different treatment such : 
 
+- Offer for segmented customer to used Pay Protection from the start of their bill
+- Payment Structuring for default segmented customer
+
+Moreover can also generate a marketing strategies for customer whom had a good payment such :
+
+- Offer more limit balanced (Level Up Card Type)
+- Offer New Credit Card for their family member.
+- Or make a new promo for segmented customer to increase the transactions
